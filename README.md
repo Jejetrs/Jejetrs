@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Jejetrs/Jejetrs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jessica Theresia. Here's about me :
 
-Here are some ideas to get you started:
+- 🔭 I’m currently an informatics college student.
+- 🌱 I’m currently learning basic Database (SQL), Web, Desktop, and UI/UX Design.
+- 👯 I’m looking for friends and senior on Informatics to learn
+- 📫 How to reach me: me.jessicatheresia@gmail.com
+- 😄 Pronouns: Bahasa, English
+- ⚡ Fun fact :
+      * Happy to learn but not too hard.
+      * Like to work in a group.
+- :left_speech_bubble: Take small wins and collect them into a big win.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
