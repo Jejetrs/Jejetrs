@@ -37,16 +37,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [Project name](https://github.com/Jejetrs/REPO) | One-line description of what it does | Tech · Tech |
-| [Project name](https://github.com/Jejetrs/REPO) | One-line description of what it does | Tech · Tech |
-| [Project name](https://github.com/Jejetrs/REPO) | One-line description of what it does | Tech · Tech |
-
----
-
 ## 📊 GitHub Stats
 
 [![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Jejetrs&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)](https://github.com/Jejetrs)
@@ -56,7 +46,7 @@
 
 ## 📬 Let's Connect
 
-[![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me.jessicatheresia@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jssicatheresia@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Jejetrs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jejetrs)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4F46E5?style=for-the-badge)](https://YOUR-PORTFOLIO-URL)
 
